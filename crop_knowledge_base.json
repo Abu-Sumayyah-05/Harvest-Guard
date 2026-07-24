@@ -1,0 +1,62 @@
+[
+  {
+    "crop": "tomato",
+    "issue": "rapid spoilage and mechanical bruising from rough handling and humid conditions",
+    "safe_storage_days": 2,
+    "advice": "Sort out bruised, cracked, or over-ripe fruit immediately and keep them separate from good ones, since one damaged tomato speeds up rot in the whole pile. Harvest into padded baskets rather than throwing or dumping fruit. Store in a single layer (not stacked more than 2-3 deep) in a cool, shaded, well-ventilated spot away from direct sun. If you cannot sell within 2 days in hot or rainy weather, process into paste, dry, or sell at a discount rather than risk total loss."
+  },
+  {
+    "crop": "tomato",
+    "issue": "over-ripening and decay from poor ventilation and heat during transport and storage",
+    "safe_storage_days": 4,
+    "advice": "Harvest at the mature-green to breaker (just-turning) stage rather than fully ripe if the market is more than a day away, since this slows ripening and extends usable life to about 4 days at ambient tropical temperature. Keep tomatoes out of direct sun and away from sacks or closed containers that trap heat and ethylene. Do not wash tomatoes before storage unless you can dry them fully, as trapped moisture encourages fungal rot."
+  },
+  {
+    "crop": "maize",
+    "issue": "mold growth and aflatoxin contamination from inadequate drying before storage",
+    "safe_storage_days": 180,
+    "advice": "Dry maize until the moisture content is at or below 13% before storing; grains should be hard and break with a sharp snap, not bend, and should rattle in the cob or ear when shaken. Spread grain in thin layers on a raised, clean surface and turn several times a day, avoiding drying directly on bare ground. If it rains during drying, cover immediately, since even a few hours of re-wetting promotes mold. Properly dried and stored maize can keep 4-6 months or longer with minimal spoilage; poorly dried maize can spoil within weeks."
+  },
+  {
+    "crop": "maize",
+    "issue": "insect infestation and mold in bagged storage under humid conditions",
+    "safe_storage_days": 180,
+    "advice": "After drying to 13% moisture or below, store maize in hermetic (airtight) storage such as PICS bags or sealed metal drums rather than ordinary woven sacks, since sealed storage starves insects of oxygen and blocks moisture re-entry. Remove damaged, moldy, or insect-bitten kernels before storing, as contaminated grain can spread mold to the whole batch. Keep storage bags off the floor on pallets or wood and away from walls to avoid dampness."
+  },
+  {
+    "crop": "cassava",
+    "issue": "rapid physiological deterioration (vascular streaking/blackening) within 1-4 days of harvest",
+    "safe_storage_days": 2,
+    "advice": "Handle roots gently during and after harvest, since bruising, cuts, and broken root tips trigger rapid internal blackening that ruins fresh cassava within 1-4 days. Do not pile or drop roots; process, sell, or consume within 1-2 days of harvest for best quality. If you cannot sell fresh roots quickly, process them the same day into gari, fufu, chips, or flour rather than storing fresh. Roots can be left unharvested in the ground for extra days if mature, which is more reliable than storing harvested fresh roots."
+  },
+  {
+    "crop": "cassava",
+    "issue": "moisture loss and rot when fresh roots are stored longer than a few days",
+    "safe_storage_days": 3,
+    "advice": "If short-term storage is unavoidable, keep roots unwashed, with soil left on, in a cool, shaded, well-ventilated area, and cover with damp sacking, leaves, or moist sawdust to slow moisture loss; this can extend usable life to about 3 days. Avoid sealed plastic bags or containers, which trap heat and moisture and accelerate rot. Do not store roots that already show blue-black streaking at the cut end."
+  },
+  {
+    "crop": "pepper",
+    "issue": "shriveling, softening, and decay from mechanical damage and poor ventilation",
+    "safe_storage_days": 5,
+    "advice": "Harvest peppers by cutting or gently snapping the stem rather than pulling, to avoid tearing the fruit, a common entry point for decay-causing fungi and bacteria. Sort out any peppers with cuts, punctures, or soft spots before storage. Store in shallow, well-ventilated baskets or crates out of direct sun in a cool, dry place; under good handling, fresh peppers typically keep about 5 days."
+  },
+  {
+    "crop": "pepper",
+    "issue": "excessive moisture loss and quality loss without cooling or airflow",
+    "safe_storage_days": 7,
+    "advice": "If planning to hold pepper for up to a week, spread fruit in a single layer on raised, shaded, well-ventilated racks rather than piling in sacks. For longer storage, consider drying whole or split peppers in the sun or with a solar dryer, rather than trying to keep fresh pepper beyond about a week without refrigeration. Avoid washing pepper before storage unless it will be fully air-dried afterward."
+  },
+  {
+    "crop": "onion",
+    "issue": "bulb rot and sprouting from inadequate curing before storage",
+    "safe_storage_days": 90,
+    "advice": "Cure onions before storage by leaving bulbs to dry in a shaded, well-ventilated spot for 1-2 weeks until outer skins are papery and necks are fully dry and tight; uncured, wet-necked onions rot and sprout much faster. Trim tops to about 1 inch above the bulb and trim roots after curing, avoiding bruising. Properly cured onions stored in a cool, dry, ventilated space can keep 2-3 months or more."
+  },
+  {
+    "crop": "onion",
+    "issue": "weight loss and sprouting from high humidity and poor airflow during storage",
+    "safe_storage_days": 90,
+    "advice": "Store cured onion bulbs in single or shallow layers on raised, open, well-ventilated racks or mesh bags rather than closed sacks or piled heaps, since trapped humidity is the main driver of sprouting and rot. Regularly inspect stored onions and remove any that are rotting, sprouting, or soft. Avoid storing onions near high-moisture produce or in areas with poor airflow."
+  }
+]
